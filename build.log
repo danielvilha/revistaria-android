@@ -1,0 +1,102 @@
+Logfile initialized
+[INFO] logfile = /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/build.log
+[DEBUG] /Users/danielvilha/Library/Application Support/Titanium/mobilesdk/osx/3.0.0.GA/android/builder.py install Revistaria Android /Users/danielvilha/android_sdk /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android com.megamidia.RevistariaAndroid 2
+[INFO] Titanium SDK version: 3.0.0 (12/12/12 18:49 a5894b3)
+[DEBUG] Waiting for device to be ready ...
+[TRACE] adb devices returned 1 devices/emulators
+[DEBUG] Device connected... (waited 0 seconds)
+[DEBUG] waited 0.105303 seconds on emulator to get ready
+[DEBUG] com.megamidia.RevistariaAndroid installed? False
+[INFO] Copying CommonJS modules...
+[INFO] Copying project resources..
+[INFO] Tiapp.xml unchanged, skipping class generation
+[DEBUG] Processing Android resource drawables
+[DEBUG] found drawable-long-port-hdpi splash screen at /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/Resources/android/images/res-long-port-hdpi/default.png
+[DEBUG] found drawable-long-port-ldpi splash screen at /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/Resources/android/images/res-long-port-ldpi/default.png
+[DEBUG] found drawable-notlong-port-hdpi splash screen at /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/Resources/android/images/res-notlong-port-hdpi/default.png
+[DEBUG] found drawable-notlong-port-ldpi splash screen at /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/Resources/android/images/res-notlong-port-ldpi/default.png
+[DEBUG] found drawable-notlong-port-mdpi splash screen at /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/Resources/android/images/res-notlong-port-mdpi/default.png
+[DEBUG] creating unsigned apk: /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/build/android/bin/app-unsigned.apk
+[DEBUG] from resource zip => assets/Resources/views/1.png
+[DEBUG] from resource zip => assets/Resources/views/2.png
+[DEBUG] from resource zip => assets/Resources/views/3.png
+[DEBUG] from resource zip => assets/Resources/views/4.png
+[DEBUG] from resource zip => assets/Resources/views/5.png
+[DEBUG] from resource zip => assets/Resources/views/Edicao.js
+[DEBUG] from resource zip => assets/Resources/views/Edicoes.js
+[DEBUG] from resource zip => assets/Resources/views/Nav.js
+[DEBUG] from resource zip => assets/Resources/views/Revista.js
+[DEBUG] from resource zip => assets/Resources/views/ViewPageLoop.js
+[DEBUG] from resource zip => assets/Resources/views/abrir.png
+[DEBUG] from resource zip => assets/Resources/views/baixar.png
+[DEBUG] from resource zip => assets/Resources/views/butReload.png
+[DEBUG] from resource zip => assets/Resources/views/butReloadClick.png
+[DEBUG] from resource zip => assets/Resources/views/deletar.png
+[DEBUG] from resource zip => assets/Resources/views/linen_texture_dark@2x.png
+[DEBUG] from resource zip => assets/Resources/views/logo-revistaria.png
+[DEBUG] from resource zip => assets/Resources/views/nextButton.png
+[DEBUG] from resource zip => assets/Resources/views/nextButtonClick.png
+[DEBUG] from resource zip => assets/Resources/views/nextFastButton.png
+[DEBUG] from resource zip => assets/Resources/views/nextFastButtonClick.png
+[DEBUG] from resource zip => assets/Resources/views/pause.png
+[DEBUG] from resource zip => assets/Resources/views/play.png
+[DEBUG] from resource zip => assets/Resources/views/previousButton.png
+[DEBUG] from resource zip => assets/Resources/views/previousButtonClick.png
+[DEBUG] from resource zip => assets/Resources/views/previousFastButton.png
+[DEBUG] from resource zip => assets/Resources/views/previousFastButtonClick.png
+[DEBUG] from resource zip => assets/Resources/views/viewBG.png
+[DEBUG] from resource zip => assets/Resources/Edicao.js
+[DEBUG] from resource zip => assets/Resources/Edicoes.js
+[DEBUG] from resource zip => assets/Resources/RevistaTeste.js
+[DEBUG] from resource zip => assets/Resources/ViewPageLoopOld.js
+[DEBUG] from resource zip => assets/Resources/ViewPageLoopTeste.js
+[DEBUG] from resource zip => assets/Resources/app.js
+[DEBUG] from resource zip => assets/Resources/appicon.png
+[DEBUG] from resource zip => assets/Resources/default.png
+[DEBUG] from resource zip => assets/Resources/getRemoteFile.js
+[DEBUG] from resource zip => assets/app.json
+[DEBUG] from resource zip => assets/index.json
+[DEBUG] from resource zip => assets/tiapp.xml
+[DEBUG] from resource zip => res/drawable/appicon.png
+[DEBUG] from resource zip => res/drawable/background.png
+[DEBUG] from resource zip => res/layout/titanium_tabgroup.xml
+[DEBUG] from resource zip => AndroidManifest.xml
+[DEBUG] from resource zip => resources.arsc
+[DEBUG] from resource zip => res/drawable-long-port-hdpi/background.png
+[DEBUG] from resource zip => res/drawable-long-port-ldpi/background.png
+[DEBUG] from resource zip => res/drawable-notlong-port-hdpi/background.png
+[DEBUG] from resource zip => res/drawable-notlong-port-ldpi/background.png
+[DEBUG] from resource zip => res/drawable-notlong-port-mdpi/background.png
+[DEBUG] from JAR /Users/danielvilha/Library/Application Support/Titanium/mobilesdk/osx/3.0.0.GA/android/titanium.jar => org/appcelerator/titanium/build.properties
+[DEBUG] from JAR /Users/danielvilha/Library/Application Support/Titanium/mobilesdk/osx/3.0.0.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/background.png
+[DEBUG] from JAR /Users/danielvilha/Library/Application Support/Titanium/mobilesdk/osx/3.0.0.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_check_buttonless_on.png
+[DEBUG] from JAR /Users/danielvilha/Library/Application Support/Titanium/mobilesdk/osx/3.0.0.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_check_buttonless_on_18.png
+[DEBUG] from JAR /Users/danielvilha/Library/Application Support/Titanium/mobilesdk/osx/3.0.0.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_check_buttonless_on_48.png
+[DEBUG] from JAR /Users/danielvilha/Library/Application Support/Titanium/mobilesdk/osx/3.0.0.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_check_buttonless_on_64.png
+[DEBUG] from JAR /Users/danielvilha/Library/Application Support/Titanium/mobilesdk/osx/3.0.0.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_more.png
+[DEBUG] from JAR /Users/danielvilha/Library/Application Support/Titanium/mobilesdk/osx/3.0.0.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_more_18.png
+[DEBUG] from JAR /Users/danielvilha/Library/Application Support/Titanium/mobilesdk/osx/3.0.0.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_more_48.png
+[DEBUG] from JAR /Users/danielvilha/Library/Application Support/Titanium/mobilesdk/osx/3.0.0.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_more_64.png
+[DEBUG] from JAR /Users/danielvilha/Library/Application Support/Titanium/mobilesdk/osx/3.0.0.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_picker_normal.9.png
+[DEBUG] from JAR /Users/danielvilha/Library/Application Support/Titanium/mobilesdk/osx/3.0.0.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_picker_pressed.9.png
+[DEBUG] from JAR /Users/danielvilha/Library/Application Support/Titanium/mobilesdk/osx/3.0.0.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_picker_selected.9.png
+[DEBUG] from JAR /Users/danielvilha/Library/Application Support/Titanium/mobilesdk/osx/3.0.0.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/default_icon.png
+[DEBUG] from JAR /Users/danielvilha/Library/Application Support/Titanium/mobilesdk/osx/3.0.0.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/photoDefault.png
+[DEBUG] from JAR /Users/danielvilha/Library/Application Support/Titanium/mobilesdk/osx/3.0.0.GA/android/modules/titanium-ui.jar => ti/modules/titanium/ui/widget/webview/binding.js
+[DEBUG] from JAR /Users/danielvilha/Library/Application Support/Titanium/mobilesdk/osx/3.0.0.GA/android/modules/titanium-ui.jar => ti/modules/titanium/ui/widget/webview/binding.min.js
+[DEBUG] from JAR /Users/danielvilha/Library/Application Support/Titanium/mobilesdk/osx/3.0.0.GA/android/modules/titanium-ui.jar => ti/modules/titanium/ui/widget/webview/json2.js
+[DEBUG] from JAR /Users/danielvilha/Library/Application Support/Titanium/mobilesdk/osx/3.0.0.GA/android/modules/titanium-ui.jar => ti/modules/titanium/ui/widget/webview/polling.js
+[DEBUG] from JAR /Users/danielvilha/Library/Application Support/Titanium/mobilesdk/osx/3.0.0.GA/android/modules/titanium-ui.jar => ti/modules/titanium/ui/widget/webview/polling.min.js
+[DEBUG] from JAR /Users/danielvilha/Library/Application Support/Titanium/mobilesdk/osx/3.0.0.GA/android/thirdparty.jar => org/apache/Commons-NOTICE.txt
+[DEBUG] from JAR /Users/danielvilha/Library/Application Support/Titanium/mobilesdk/osx/3.0.0.GA/android/thirdparty.jar => org/apache/HttpComponents-NOTICE.txt
+[DEBUG] from JAR /Users/danielvilha/Library/Application Support/Titanium/mobilesdk/osx/3.0.0.GA/android/thirdparty.jar => org/apache/mime4j-NOTICE.txt
+[DEBUG] installing native lib: /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/modules/android/com.websiteburo.androzip/0.1/libs/armeabi/libcom.websiteburo.androzip.so
+[DEBUG] installing native lib: /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/modules/android/com.websiteburo.androzip/0.1/libs/armeabi-v7a/libcom.websiteburo.androzip.so
+[DEBUG] installing native lib: /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/modules/android/com.websiteburo.androzip/0.1/libs/x86/libcom.websiteburo.androzip.so
+[DEBUG] installing native SDK libs
+[DEBUG] Waiting for device to be ready ...
+[TRACE] adb devices returned 1 devices/emulators
+[DEBUG] Device connected... (waited 0 seconds)
+[DEBUG] waited 0.015464 seconds on emulator to get ready
+[INFO] Installing application on device
+[INFO] Application installed. Launch from drawer on Home Screen
