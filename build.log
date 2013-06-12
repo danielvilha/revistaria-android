@@ -5,17 +5,74 @@ Logfile initialized
 [DEBUG] Waiting for device to be ready ...
 [TRACE] adb devices returned 1 devices/emulators
 [DEBUG] Device connected... (waited 0 seconds)
-[DEBUG] waited 0.105303 seconds on emulator to get ready
+[DEBUG] waited 3.145177 seconds on emulator to get ready
+[INFO] Waiting for the Android Emulator to become available
 [DEBUG] com.megamidia.RevistariaAndroid installed? False
 [INFO] Copying CommonJS modules...
 [INFO] Copying project resources..
-[INFO] Tiapp.xml unchanged, skipping class generation
+[INFO] Detected change in tiapp.xml, or assets deleted. Forcing full re-build...
+[TRACE] COPYING CREATED FILE: /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/Resources/android/appicon.png => /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/build/android/bin/assets/Resources/appicon.png
+[TRACE] COPYING CREATED FILE: /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/Resources/android/default.png => /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/build/android/bin/assets/Resources/default.png
+[TRACE] COPYING CREATED FILE: /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/Resources/android/Edicao.js => /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/build/android/bin/assets/Resources/Edicao.js
+[TRACE] COPYING CREATED FILE: /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/Resources/android/Edicoes.js => /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/build/android/bin/assets/Resources/Edicoes.js
+[TRACE] COPYING CREATED FILE: /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/Resources/android/getRemoteFile.js => /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/build/android/bin/assets/Resources/getRemoteFile.js
+[TRACE] COPYING CREATED FILE: /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/Resources/android/RevistaTeste.js => /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/build/android/bin/assets/Resources/RevistaTeste.js
+[TRACE] COPYING CREATED FILE: /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/Resources/android/ViewPageLoopOld.js => /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/build/android/bin/assets/Resources/ViewPageLoopOld.js
+[TRACE] COPYING CREATED FILE: /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/Resources/android/ViewPageLoopTeste.js => /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/build/android/bin/assets/Resources/ViewPageLoopTeste.js
+[TRACE] COPYING CREATED FILE: /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/Resources/app.js => /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/build/android/bin/assets/Resources/app.js
+[TRACE] COPYING CREATED FILE: /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/Resources/views/1.png => /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/build/android/bin/assets/Resources/views/1.png
+[TRACE] COPYING CREATED FILE: /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/Resources/views/2.png => /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/build/android/bin/assets/Resources/views/2.png
+[TRACE] COPYING CREATED FILE: /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/Resources/views/3.png => /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/build/android/bin/assets/Resources/views/3.png
+[TRACE] COPYING CREATED FILE: /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/Resources/views/4.png => /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/build/android/bin/assets/Resources/views/4.png
+[TRACE] COPYING CREATED FILE: /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/Resources/views/5.png => /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/build/android/bin/assets/Resources/views/5.png
+[TRACE] COPYING CREATED FILE: /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/Resources/views/abrir.png => /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/build/android/bin/assets/Resources/views/abrir.png
+[TRACE] COPYING CREATED FILE: /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/Resources/views/baixar.png => /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/build/android/bin/assets/Resources/views/baixar.png
+[TRACE] COPYING CREATED FILE: /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/Resources/views/butReload.png => /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/build/android/bin/assets/Resources/views/butReload.png
+[TRACE] COPYING CREATED FILE: /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/Resources/views/butReloadClick.png => /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/build/android/bin/assets/Resources/views/butReloadClick.png
+[TRACE] COPYING CREATED FILE: /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/Resources/views/deletar.png => /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/build/android/bin/assets/Resources/views/deletar.png
+[TRACE] COPYING CREATED FILE: /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/Resources/views/Edicao.js => /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/build/android/bin/assets/Resources/views/Edicao.js
+[TRACE] COPYING CREATED FILE: /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/Resources/views/Edicoes.js => /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/build/android/bin/assets/Resources/views/Edicoes.js
+[TRACE] COPYING CREATED FILE: /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/Resources/views/linen_texture_dark@2x.png => /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/build/android/bin/assets/Resources/views/linen_texture_dark@2x.png
+[TRACE] COPYING CREATED FILE: /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/Resources/views/logo-revistaria.png => /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/build/android/bin/assets/Resources/views/logo-revistaria.png
+[TRACE] COPYING CREATED FILE: /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/Resources/views/Nav.js => /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/build/android/bin/assets/Resources/views/Nav.js
+[TRACE] COPYING CREATED FILE: /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/Resources/views/nextButton.png => /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/build/android/bin/assets/Resources/views/nextButton.png
+[TRACE] COPYING CREATED FILE: /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/Resources/views/nextButtonClick.png => /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/build/android/bin/assets/Resources/views/nextButtonClick.png
+[TRACE] COPYING CREATED FILE: /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/Resources/views/nextFastButton.png => /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/build/android/bin/assets/Resources/views/nextFastButton.png
+[TRACE] COPYING CREATED FILE: /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/Resources/views/nextFastButtonClick.png => /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/build/android/bin/assets/Resources/views/nextFastButtonClick.png
+[TRACE] COPYING CREATED FILE: /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/Resources/views/pause.png => /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/build/android/bin/assets/Resources/views/pause.png
+[TRACE] COPYING CREATED FILE: /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/Resources/views/play.png => /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/build/android/bin/assets/Resources/views/play.png
+[TRACE] COPYING CREATED FILE: /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/Resources/views/previousButton.png => /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/build/android/bin/assets/Resources/views/previousButton.png
+[TRACE] COPYING CREATED FILE: /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/Resources/views/previousButtonClick.png => /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/build/android/bin/assets/Resources/views/previousButtonClick.png
+[TRACE] COPYING CREATED FILE: /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/Resources/views/previousFastButton.png => /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/build/android/bin/assets/Resources/views/previousFastButton.png
+[TRACE] COPYING CREATED FILE: /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/Resources/views/previousFastButtonClick.png => /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/build/android/bin/assets/Resources/views/previousFastButtonClick.png
+[TRACE] COPYING CREATED FILE: /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/Resources/views/Revista.js => /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/build/android/bin/assets/Resources/views/Revista.js
+[TRACE] COPYING CREATED FILE: /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/Resources/views/viewBG.png => /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/build/android/bin/assets/Resources/views/viewBG.png
+[TRACE] COPYING CREATED FILE: /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/Resources/views/ViewPageLoop.js => /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/build/android/bin/assets/Resources/views/ViewPageLoop.js
+[TRACE] Generating Java Classes
 [DEBUG] Processing Android resource drawables
+[DEBUG] app stylesheet => /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/build/android/gen/com/megamidia/RevistariaAndroid/ApplicationStylesheet.java
+[DEBUG] copying app icon: /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/build/android/bin/assets/Resources/appicon.png
+[DEBUG] generating theme.xml
 [DEBUG] found drawable-long-port-hdpi splash screen at /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/Resources/android/images/res-long-port-hdpi/default.png
+[DEBUG] copying /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/Resources/android/images/res-long-port-hdpi/default.png splash screen to /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/build/android/res/drawable-long-port-hdpi/background.png
 [DEBUG] found drawable-long-port-ldpi splash screen at /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/Resources/android/images/res-long-port-ldpi/default.png
+[DEBUG] copying /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/Resources/android/images/res-long-port-ldpi/default.png splash screen to /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/build/android/res/drawable-long-port-ldpi/background.png
 [DEBUG] found drawable-notlong-port-hdpi splash screen at /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/Resources/android/images/res-notlong-port-hdpi/default.png
+[DEBUG] copying /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/Resources/android/images/res-notlong-port-hdpi/default.png splash screen to /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/build/android/res/drawable-notlong-port-hdpi/background.png
 [DEBUG] found drawable-notlong-port-ldpi splash screen at /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/Resources/android/images/res-notlong-port-ldpi/default.png
+[DEBUG] copying /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/Resources/android/images/res-notlong-port-ldpi/default.png splash screen to /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/build/android/res/drawable-notlong-port-ldpi/background.png
 [DEBUG] found drawable-notlong-port-mdpi splash screen at /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/Resources/android/images/res-notlong-port-mdpi/default.png
+[DEBUG] copying /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/Resources/android/images/res-notlong-port-mdpi/default.png splash screen to /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/build/android/res/drawable-notlong-port-mdpi/background.png
+[DEBUG] found splash screen at /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/build/android/bin/assets/Resources/default.png
+[TRACE] Writing out AndroidManifest.xml
+[DEBUG] adding /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/build/android/gen/com/megamidia/RevistariaAndroid/ApplicationStylesheet.java to javac build list
+[DEBUG] adding /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/build/android/gen/com/megamidia/RevistariaAndroid/R.java to javac build list
+[DEBUG] adding /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/build/android/gen/com/megamidia/RevistariaAndroid/RevistariaAndroidActivity.java to javac build list
+[DEBUG] adding /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/build/android/gen/com/megamidia/RevistariaAndroid/RevistariaAndroidAppInfo.java to javac build list
+[DEBUG] adding /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/build/android/gen/com/megamidia/RevistariaAndroid/RevistariaAndroidApplication.java to javac build list
+[DEBUG] Building Java Sources: "/Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/build/android/gen/com/megamidia/RevistariaAndroid/ApplicationStylesheet.java" "/Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/build/android/gen/com/megamidia/RevistariaAndroid/R.java" "/Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/build/android/gen/com/megamidia/RevistariaAndroid/RevistariaAndroidActivity.java" "/Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/build/android/gen/com/megamidia/RevistariaAndroid/RevistariaAndroidAppInfo.java" "/Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/build/android/gen/com/megamidia/RevistariaAndroid/RevistariaAndroidApplication.java"
+[INFO] Compiling Android Resources... This could take some time
+[DEBUG] Android classes.dex built
 [DEBUG] creating unsigned apk: /Users/danielvilha/Documents/Titanium_Studio_Workspace/Revistaria Android/build/android/bin/app-unsigned.apk
 [DEBUG] from resource zip => assets/Resources/views/1.png
 [DEBUG] from resource zip => assets/Resources/views/2.png
@@ -97,6 +154,6 @@ Logfile initialized
 [DEBUG] Waiting for device to be ready ...
 [TRACE] adb devices returned 1 devices/emulators
 [DEBUG] Device connected... (waited 0 seconds)
-[DEBUG] waited 0.015464 seconds on emulator to get ready
+[DEBUG] waited 0.015056 seconds on emulator to get ready
 [INFO] Installing application on device
 [INFO] Application installed. Launch from drawer on Home Screen

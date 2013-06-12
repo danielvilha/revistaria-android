@@ -5,7 +5,7 @@
 
 	//considering tablet to have one dimension over 900px - this is imperfect, so you should feel free to decide
 	//yourself what you consider a tablet form factor for android
-	var isTablet = osname === 'ipad' || (osname === 'android' && (width > 899 || height > 899));
+	// var isTablet = osname === 'ipad' || (osname === 'android' && (width > 899 || height > 899));
 
 	var Window = require('views/Edicoes');
 	new Window().open();
